@@ -30,6 +30,8 @@ body {
   font-family: 'PT Sans', sans-serif;
   width: 700px;
   margin: 0 auto;
+  background-image: url(../images/img_2698.png);
+
 }
 ul {
   margin-left: 120px;
@@ -37,7 +39,4 @@ ul {
   margin-bottom: 0px;
   width: 700px;
   font-size: 50px;
-}
-body {
-  background-image: url(images/img_2698.png);
 }
