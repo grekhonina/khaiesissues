@@ -1,0 +1,43 @@
+@import "reset.css";
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic");
+h1 {
+  color: white;
+font-weight: bold;
+margin-top: 200px;
+margin-bottom: 200px;
+font-size: 80px;
+}
+h2 {
+font-weight: bold;
+margin-left: 200px;
+margin-top: 50px;
+margin-bottom: 50px;
+font-size: 70px;
+}
+h3 {
+font-weight: bold;
+margin-top: 30px;
+margin-bottom: 20px;
+font-size: 30px;
+}
+p {
+font-weight: 400;
+margin-top: 100;
+margin-bottom: 20;
+font-size: 20px;
+}
+body {
+  font-family: 'PT Sans', sans-serif;
+  width: 700px;
+  margin: 0 auto;
+}
+ul {
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  width: 700px;
+  font-size: 50px;
+}
+body {
+  background-image: url(images/img_2698.png);
+}
